@@ -1,0 +1,118 @@
+= Hemant Tyagi 
+
+~~~
+{}{img_left}{./pics/htyagi.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+
+Alan Turing Institute,  \n
+96 Euston Road, NW1 2DB, \n
+London
+
+*E-mail:* htyagi (at) turing (dot) ac (dot) uk
+~~~
+
+*Research Interests:*  Approximation theory, Online optimization, Learning theory, Compressed sensing, Low dimensional models for high dimensional data
+
+*Bio:* I am a Research fellow at the Alan Turing Institute (ATI), and also affiliated to the School of Mathematics, University of Edinburgh. I completed my PhD at the Institute of Theoretical Computer Science, ETH Zurich. Earlier, I obtained a MSc degree in Communication Systems from EPFL, and a Bachelors degree in Electrical and Electronics Engineering from NIT Surathkal, Karnataka, India.
+
+[./files/hemant-cv.pdf Curriculum Vitae]
+
+== Conference Publications
+- Hemant Tyagi, Rajesh M Hegde, Hema A. Murthy, and Anil Prabhakar, [http://www.eurasip.org/Proceedings/Eusipco/Eusipco2006/papers/1568980494.pdf Automatic identification of bird calls using spectral ensemble average voice prints],  
+ 13th European Signal Processing Conference, 2006, pp. 1-5
+ 
+- Hemant Tyagi and Volkan Cevher, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6288306 
+Learning ridge functions with randomized sampling in high dimensions], 
+ ICASSP 2012, pp. 2025-2028
+ 
+- Hemant Tyagi and Volkan Cevher, [http://books.nips.cc/papers/files/nips25/NIPS2012_0701.pdf 
+Active Learning of Multi-Index Function Models], Advances in Neural Information Processing Systems (NIPS), 2012, pp. 1475-1483
+ 
+- Hemant Tyagi, Elif Vural and Pascal Frossard,  [http://www.eurasip.org/Proceedings/Ext/SampTA2013/papers/p452-tyagi.pdf  Tangent space estimation bounds for smooth manifolds], 
+ 10th International Conference on Sampling Theory and Applications (SAMPTA), 2013, pp. 452-455 
+
+- Hemant Tyagi and Bernd G\&auml;rtner,  
+ [http://link.springer.com/chapter/10.1007%2F978-3-319-08001-7_10 Continuum armed bandit problem of few variables in high dimensions], 
+ Proc. 11th Workshop on Approximation and Online Algorithms (WAOA), 2014, LNCS 8447, pp. 108-119
+
+- Hemant Tyagi, Andreas Krause and Bernd G\&auml;rtner,
+ [http://nips.cc/Conferences/2014/Program/accepted-papers.php Efficient Sampling for Learning Sparse Additive Models in High Dimensions],
+Advances in Neural Information Processing Systems (NIPS), 2014,  pp. 514-522
+
+- Hemant Tyagi, Anastasios Kyrillidis, Bernd G\&auml;rtner and Andreas Krause, 
+[http://jmlr.org/proceedings/papers/v51/ Learning Sparse Additive Models with Interactions in High Dimensions]  
+19th International Conference on Artificial Intelligence and Statistics (AISTATS), 2016,  111-120
+
+== Journal Publications 
+- Hemant Tyagi, Elif Vural and Pascal Frossard, [http://imaiai.oxfordjournals.org/content/2/1/69.abstract?keytype=ref&ijkey=YUph2FqLNdEtlyu Tangent space estimation for smooth embeddings of Riemmanian manifolds], 
+ Information and Inference, 2013, 2:1, 69-114. 
+
+- Hemant Tyagi and Volkan Cevher,   
+ [http://www.sciencedirect.com/science/article/pii/S1063520314000050 Learning non-parametric basis independent models from point queries via low-rank methods], Applied and Computational Harmonic Analysis (ACHA), 2014, 37:3, 389-412. 
+
+- Hemant Tyagi, Sebastian Stich and Bernd G\&auml;rtner,   
+[http://link.springer.com/article/10.1007%2Fs00224-014-9570-8 On two continuum armed bandit problems in high dimensions], Theory of Computing Systems (TOCS), 2016, 58:1, 191-222.  
+
+== Technical Reports/Preprints 
+
+- Hemant Tyagi and Bernd G\&auml;rtner,   
+ [http://arxiv.org/abs/1304.5793 Continuum armed bandit problem of few variables in high dimensions],
+ 2013.
+
+- Hemant Tyagi, Sebastian Stich and Bernd G\&auml;rtner,   
+ [http://arxiv.org/abs/1312.0232 Stochastic continuum armed bandit problem of few linear parameters in high dimensions],
+ 2013. 
+
+- Hemant Tyagi, Anastasios Kyrillidis, Bernd G\&auml;rtner and Andreas Krause,   
+ [http://arxiv.org/abs/1605.00609 Algorithms for Learning Sparse Additive Models with Interactions in High Dimensions],
+ 2016.
+
+== Doctoral thesis
+[http://e-collection.library.ethz.ch/view/eth:49202?q=tyagi On low dimensional models for functions in high dimensions], 
+ETH Z\&uuml;rich, 2016
+
+== Master Thesis
+[http://infoscience.epfl.ch/record/179897 Local sampling analysis for quadratic embeddings of Riemannian manifolds],
+Master Thesis in Communication Systems, EPFL, July 2011.
+
+
+== Talks
+- Learning multi ridge functions in high dimensions via low rank matrix recovery. 
+April 23, 2012, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=5dfd9cf86c41e4de37f553b9749272f1ab8a67aa 
+Mittagsseminar], ETH Z\&uuml;rich 
+
+- Tangent space estimation for smooth embeddings of manifolds. 
+January 15, 2013, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=923a44678a1db9632c4189b1051514d235b7ddf2 
+Mittagsseminar], ETH Z\&uuml;rich 
+
+- Continuum armed bandit problem of few variables in high dimensions. 
+July 16, 2013, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=6ebaed0d9d8706df4965515ce330b93d914cc62d 
+Mittagsseminar], ETH  Z\&uuml;rich
+
+- Continuum armed bandit problem of few variables in high dimensions. 
+September 5, 2013, [http://algo2013.inria.fr/waoa.shtml 
+11th Workshop on Approximation and Online Algorithms (WAOA)], Sophia Antipolis, France
+
+- The adversarial multi-armed bandit problem.
+December 19, 2013, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=7733e586141ab4eeb34c07c31c65db0b7dcb1454 
+Mittagsseminar], ETH  Z\&uuml;rich
+
+- Interpolation with cubic splines.
+May 14, 2014, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=359a5b3fc95469f415b06a35911dae8ed57d44f2 
+Mittagsseminar], ETH Z\&uuml;rich 
+
+- Efficient sampling for learning SPAMs in high dimensions.
+October 28, 2014, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=a5ae4e6f458bbe4d7c06fc02c421ef3a28dbee25 
+Mittagsseminar], ETH Z\&uuml;rich 
+
+- Tangent space estimation for smooth embeddings of manifolds.
+August, 2015, Information and Inference best paper prize meeting, University of Oxford, UK
+
+- Learning SPAMs with pairwise interaction terms.
+November 5, 2015, [http://www.ti.inf.ethz.ch/ew/mise/mittagssem.html?action=show&what=abstract&id=40c10e4a3bf7c1f4700fd9c6660a56ad1e998b7c 
+Mittagsseminar], ETH  Z\&uuml;rich
+
+- Learning Sparse Additive Models with Interactions in High Dimensions.
+May 11, 2016, 19th International Conference on Artificial Intelligence and Statistics (AISTATS), Cadiz, Spain
+
+
+
